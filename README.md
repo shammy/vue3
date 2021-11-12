@@ -26,9 +26,33 @@ yarn add @vitejs/plugin-vue@1.1.5 --dev
 - validation
 - design patterns
 
+### run project locally
+
+```
+yarn vite --config vite.config.js form-validation/
+```
+
 ## Pokemon Evolution List Project
 
 - fetching data with the Fetch API
 - reusable components
 - class + style bindings
 - emitting events
+
+### run project locally
+
+```
+yarn vite --config vite.config.js pokemon/
+```
+
+## Microblog Project
+
+- Composition Api (ref, reactive, computed)
+- global state
+- reusing components
+
+### run project locally
+
+```
+yarn vite --config vite.config.js microblog/
+```
