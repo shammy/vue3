@@ -15,6 +15,7 @@ yarn add vue@3.2.21
 yarn add vite@2.6.14 --dev
 yarn add @vue/compiler-sfc@3.0.7
 yarn add @vitejs/plugin-vue@1.1.5 --dev
+yarn add vue-router@4.0.5
 ```
 
 ## Form validation Project
@@ -55,4 +56,15 @@ yarn vite --config vite.config.js pokemon/
 
 ```
 yarn vite --config vite.config.js microblog/
+```
+
+## Vue Router Project
+
+- Vue Router for large, multi-page apps with client side routing - no refreshes.
+- composition and options API usage
+- highly complex applications
+- seamless SPA experience
+
+```
+yarn vite --config vite.config.js router/
 ```

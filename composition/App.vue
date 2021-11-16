@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import { computed, ref, reactive, watch, watchEffect } from 'vue';
+import { computed, ref, reactive } from 'vue';
 export default {
   setup() {
     const msg = ref('Hello'); // opt-in reactivity by using ref
