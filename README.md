@@ -16,6 +16,7 @@ yarn add vite@2.6.14 --dev
 yarn add @vue/compiler-sfc@3.0.7
 yarn add @vitejs/plugin-vue@1.1.5 --dev
 yarn add vue-router@4.0.5
+yarn add vuex@4.0.0
 ```
 
 ## Form validation Project
@@ -67,4 +68,5 @@ yarn vite --config vite.config.js microblog/
 
 ```
 yarn vite --config vite.config.js router/
+yarn vite --config vite.config.js router-options/
 ```
